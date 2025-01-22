@@ -32,3 +32,11 @@
 13. Check dvc/git status, everything should be upto date.
 
 14. Now repeat step 10-12 for v3 of data.
+
+
+
+
+git log --oneline
+git checkout <hash> - git checkout master
+dvc pull
+
