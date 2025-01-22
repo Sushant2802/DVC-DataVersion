@@ -40,3 +40,12 @@ git log --oneline
 git checkout <hash> - git checkout master
 dvc pull
 
+dvc status
+dvc pull
+
+dvc status
+
+git checkout master
+dvc status
+
+dvc pull
